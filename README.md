@@ -15,20 +15,21 @@ The following skills were acquired from the project:
 - PANDAS
 - MYSQL
 - STREAMLIT GUI
-  # Work Flow
-  # User-Friendly Interface
-  The application boasts a simple and intuitive UI that guides users seamlessly through the process of uploading a business card image and extracting information.
-  # Data Extraction
-  The application extracts important data, such as the name of the business, the cardholder's name, their designation, their email address, their mobile number, the URL of their website, their area, city, state, 
-  and pin code, by using the easyOCR .
-  # DataBase Integration
-  Users can submit a photograph of their business card and store the extracted data in a database. Multiple entries, each with a corresponding business card image and extracted information, are intended to be 
-  stored in the database, which is powered by MySQL.
-  # CRUD Operations
-  Essential CRUD (Create, Read, Update, Delete) actions are supported by the program. With the Streamlit UI, users can quickly add, view, change, and remove entries.
- # Usage of App
-  After the project has been successfully set up and activated, users can interact with the Streamlit application through a web browser. Through the application's user-friendly interface, users can carry out the 
-  following tasks:
+# Work Flow
+# User-Friendly Interface
+The application boasts a simple and intuitive UI that guides users seamlessly through the process of uploading a business card image and extracting information.
+# Data Extraction
+The application extracts important data, such as the name of the business, the cardholder's name, their designation, their email address, their mobile number, the URL of their website, their area, city, state, 
+and pin code, by using the easyOCR .
+# DataBase Integration
+Users can submit a photograph of their business card and store the extracted data in a database. Multiple entries, each with a corresponding business card image and extracted information, are intended to be 
+stored in the database, which is powered by MySQL.
+# CRUD Operations
+Essential CRUD (Create, Read, Update, Delete) actions are supported by the program. With the Streamlit UI, users can quickly add, view, change, and remove entries.
+
+# Usage of App
+After the project has been successfully set up and activated, users can interact with the Streamlit application through a web browser. Through the application's user-friendly interface, users can carry out the 
+following tasks:
 
 - Input a Business Card to fetch corresponding data from it .
 - Gather respective information and keep it in a SQL data warehouse for numerous Business Cards.
