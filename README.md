@@ -34,7 +34,7 @@ following tasks:
 - Input a Business Card to fetch corresponding data from it .
 - Gather respective information and keep it in a SQL data warehouse for numerous Business Cards.
 - Check out the uploaded Bizcard Details do any modifications you can want to or delete some data which is not needed anymore.
-  # Method of use
+# Method of use
 Follow these steps,to use this project :
 
 1 Set up the streamlit package : pip install streamlit
@@ -55,12 +55,12 @@ Follow these steps,to use this project :
 The goal of this project is to create a simple and intuitive user interface using Streamlit that guides users through the process of uploading the business card image and extracting its information using easyOCR.And display it in a clean and organized manner in the Streamlit GUI , where you can do modifications too.
 
 # References
-EasyOCR [https://www.jaided.ai/easyocr/documentation/]
-Streamlit App [https://docs.streamlit.io/library/api-reference]
-MySQL [https://pypi.org/project/pymysql/]
-Pandas [https://pandas.pydata.org/docs/]
-Regular Expression [https://www.w3schools.com/python/python_regex.asp]
-CV2 [https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_tutorials.html]
+-EasyOCR [https://www.jaided.ai/easyocr/documentation/]
+-Streamlit App [https://docs.streamlit.io/library/api-reference]
+-MySQL [https://pypi.org/project/pymysql/]
+-Pandas [https://pandas.pydata.org/docs/]
+-Regular Expression [https://www.w3schools.com/python/python_regex.asp]
+-CV2 [https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_tutorials.html]
 
 
 
