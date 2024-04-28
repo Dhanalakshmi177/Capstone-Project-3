@@ -85,16 +85,6 @@ if opt=="Home":
               st.write(" ")
               st.image("dnxky.png",caption=' BizcardX', use_column_width=True)
            
-        #st.write(" ")
-        #st.write(" ")
-        #st.markdown("### :blue[Wanna Take a Look @ DB , Click Here Below !]")
-        #if st.button(" SHOW DATABASE"):
-           # mycursor.execute('''Select Card_Holder_Name,Designation,Company_Name,
-                   # Phone_Number,Email,Website,Area,City,State,Pincode from card_data''')
-            #updated_df = pd.DataFrame(mycursor.fetchall(),
-                        #columns=["Card Holder Name","Designation","Company Name",
-                       # "#Phone Number", "Email","Website", "Area", "City", "State", "Pin_Code"])
-            #st.write(updated_df)
         
     # ------------------------------ UPLOAD IMAGE & EXTRACT DATA
 if opt=="Data Extraction":
